@@ -35,7 +35,7 @@ public  class Car implements Works {
 
     @Override
     public String works() {
-        return null;
+        return "All work fine";
     }
 }
 
